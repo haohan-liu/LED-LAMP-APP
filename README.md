@@ -1,135 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Download LED LAMP APP</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            color: #333;
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f4f7f9;
-        }
-        .container {
-            background: #fff;
-            padding: 30px;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #1a1a1a;
-            font-size: 24px;
-            margin-bottom: 10px;
-        }
-        p.subtitle {
-            text-align: center;
-            color: #666;
-            margin-bottom: 30px;
-        }
-        .download-section {
-            border-top: 1px solid #eee;
-            padding: 25px 0;
-        }
-        .os-title {
-            font-weight: bold;
-            font-size: 18px;
-            display: flex;
-            align-items: center;
-            margin-bottom: 15px;
-        }
-        .btn {
-            display: block;
-            text-align: center;
-            padding: 15px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: bold;
-            margin-bottom: 15px;
-            transition: opacity 0.2s;
-        }
-        .btn-android {
-            background-color: #3DDC84;
-            color: #000;
-        }
-        .btn-ios {
-            background-color: #000;
-            color: #fff;
-        }
-        .btn:hover {
-            opacity: 0.9;
-        }
-        .instructions {
-            font-size: 14px;
-            color: #555;
-            background: #f9f9f9;
-            padding: 15px;
-            border-radius: 6px;
-        }
-        .instructions ol {
-            padding-left: 20px;
-            margin: 5px 0;
-        }
-        .warning-box {
-            background-color: #fff4e5;
-            border-left: 4px solid #ff9800;
-            padding: 10px 15px;
-            margin-top: 10px;
-            font-size: 13px;
-        }
-        .footer-note {
-            font-size: 12px;
-            color: #999;
-            text-align: center;
-            margin-top: 30px;
-        }
-    </style>
-</head>
-<body>
+# LED LAMP APP - Download & Installation Guide
 
-<div class="container">
-    <h1>LED LAMP APP</h1>
-    <p class="subtitle">Control your LED automotive lights via Bluetooth</p>
+This application allows you to control your **LED Crystal Shift Knob** and other automotive lighting devices via Bluetooth.
 
-    <div class="download-section">
-        <div class="os-title">🤖 For Android Users</div>
-        <a href="https://github.com/haohan-liu/LED-LAMP-APP/raw/refs/heads/main/LED%20LAMP.apk" class="btn btn-android">Download APK Directly</a>
-        
-        <div class="instructions">
-            <strong>How to install:</strong>
-            <ol>
-                <li>Click the button above to start downloading.</li>
-                <li>If your phone shows a warning <em>"File might be harmful"</em>, tap <strong>"Download anyway"</strong>.</li>
-                <li>Once downloaded, open the file. If prompted, go to Settings and <strong>"Allow installation from this source"</strong>.</li>
-                <li>Tap <strong>Install</strong> to finish.</li>
-            </ol>
-            <div class="warning-box">
-                <strong>Note:</strong> This is a standard security prompt for apps downloaded outside the Google Play Store. Our app is safe and verified.
-            </div>
-        </div>
-    </div>
+---
 
-    <div class="download-section">
-        <div class="os-title">🍎 For iOS (iPhone) Users</div>
-        <a href="https://apps.apple.com/cn/app/led-lamp/id1449109039" class="btn btn-ios">Download on App Store</a>
-        
-        <div class="instructions">
-            <strong>How to install:</strong>
-            <ol>
-                <li>Click the button to open the Apple App Store.</li>
-                <li>Tap <strong>"Get"</strong> to install.</li>
-            </ol>
-        </div>
-    </div>
+## 📱 Choose Your Device
 
-    <div class="footer-note">
-        Please ensure your phone's <strong>Bluetooth</strong> and <strong>Location Services</strong> are enabled before connecting to your LED device.
-    </div>
-</div>
+### 🤖 Android System (Direct Download)
+**Download Link:** [Click here to download LED LAMP.apk](https://github.com/haohan-liu/LED-LAMP-APP/raw/refs/heads/main/LED%20LAMP.apk)
 
-</body>
-</html>
+**How to Install:**
+1.  **Open in Browser:** Copy the link above and open it in your mobile browser (Chrome or Safari).
+2.  **Safety Warning:** If your phone displays a message like *"File might be harmful"*, tap **"Download anyway"**. This is a standard security prompt for apps downloaded outside the Google Play Store.
+3.  **Enable Permission:** After downloading, open the `.apk` file. If prompted, go to your phone's Settings and **"Allow installation from this source"**.
+4.  **Complete:** Follow the on-screen instructions to finish the installation.
+
+> **Note:** Our APP is 100% safe and verified for controlling your hardware.
+
+---
+
+### 🍎 iOS System (App Store)
+**Download Link:** [View on App Store](https://apps.apple.com/cn/app/led-lamp/id1449109039)
+
+**How to Install:**
+1.  Click the link to jump directly to the Apple App Store.
+2.  Tap **"Get"** to download and install.
+
+---
+
+## 🛠️ Usage Tips
+* **Permissions:** Please ensure your phone's **Bluetooth** and **Location Services** are turned on before using the app to connect to your device.
+* **Connection:** Power on your LED product first, then open the App to scan for the device.
+
+---
+
+## 📧 Support & Contact
+If you encounter any issues during installation or usage, please feel free to contact us:
+* **Email 1:** haohan2732@163.com
+* **Email 2:** haohan66886@gmail.com
+
+---
